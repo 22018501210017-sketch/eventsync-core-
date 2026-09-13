@@ -1,1 +1,1 @@
-"# eventsync-core- file created in main branch" 
+"README file created in Feature payment branch" 
